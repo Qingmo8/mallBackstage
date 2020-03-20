@@ -1,0 +1,21 @@
+/*清除所有默认样式*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+input, button, img {
+  border: none;
+}
